@@ -1,0 +1,30 @@
+C:\Users\burak\source\repos\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\bin\Debug\DenemeSabitBarkodeReader.exe.config
+C:\Users\burak\source\repos\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\bin\Debug\DenemeSabitBarkodeReader.exe
+C:\Users\burak\source\repos\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\bin\Debug\DenemeSabitBarkodeReader.pdb
+C:\Users\burak\source\repos\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.Form1.resources
+C:\Users\burak\source\repos\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.Properties.Resources.resources
+C:\Users\burak\source\repos\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.exe
+C:\Users\burak\source\repos\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\bin\Debug\DenemeSabitBarkodeReader.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\bin\Debug\DenemeSabitBarkodeReader.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\bin\Debug\DenemeSabitBarkodeReader.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.pdb
+G:\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\bin\Debug\DenemeSabitBarkodeReader.exe.config
+G:\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\bin\Debug\DenemeSabitBarkodeReader.exe
+G:\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\bin\Debug\DenemeSabitBarkodeReader.pdb
+G:\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.csprojAssemblyReference.cache
+G:\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.Form1.resources
+G:\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.Properties.Resources.resources
+G:\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.csproj.GenerateResource.cache
+G:\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.csproj.CoreCompileInputs.cache
+G:\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.exe
+G:\yeni bilgisayar için burak\burak\visual studio\DenemeSabitBarkodeReader\DenemeSabitBarkodeReader\obj\Debug\DenemeSabitBarkodeReader.pdb

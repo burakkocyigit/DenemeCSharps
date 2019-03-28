@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvWriting\DenemeCsvWriting\bin\Debug\DenemeCsvWriting.exe.config
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvWriting\DenemeCsvWriting\bin\Debug\DenemeCsvWriting.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvWriting\DenemeCsvWriting\bin\Debug\DenemeCsvWriting.pdb
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvWriting\DenemeCsvWriting\obj\Debug\DenemeCsvWriting.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvWriting\DenemeCsvWriting\obj\Debug\DenemeCsvWriting.Form1.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvWriting\DenemeCsvWriting\obj\Debug\DenemeCsvWriting.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvWriting\DenemeCsvWriting\obj\Debug\DenemeCsvWriting.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvWriting\DenemeCsvWriting\obj\Debug\DenemeCsvWriting.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvWriting\DenemeCsvWriting\obj\Debug\DenemeCsvWriting.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvWriting\DenemeCsvWriting\obj\Debug\DenemeCsvWriting.pdb

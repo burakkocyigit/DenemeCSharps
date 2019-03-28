@@ -1,0 +1,15 @@
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\bin\Debug\DenemeEntityFramework.exe.config
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\bin\Debug\DenemeEntityFramework.exe
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\bin\Debug\DenemeEntityFramework.pdb
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\obj\Debug\DenemeEntityFramework.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\obj\Debug\DenemeEntityFramework.Form1.resources
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\obj\Debug\DenemeEntityFramework.Properties.Resources.resources
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\obj\Debug\DenemeEntityFramework.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\obj\Debug\DenemeEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\obj\Debug\DenemeEntityFramework.csproj.CopyComplete
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\obj\Debug\DenemeEntityFramework.exe
+C:\Users\burak\source\repos\DenemeEntityFramework\DenemeEntityFramework\obj\Debug\DenemeEntityFramework.pdb

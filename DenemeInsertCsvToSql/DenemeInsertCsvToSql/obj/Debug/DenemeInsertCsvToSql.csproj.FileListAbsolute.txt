@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeInsertCsvToSql\DenemeInsertCsvToSql\bin\Debug\DenemeInsertCsvToSql.exe.config
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeInsertCsvToSql\DenemeInsertCsvToSql\bin\Debug\DenemeInsertCsvToSql.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeInsertCsvToSql\DenemeInsertCsvToSql\bin\Debug\DenemeInsertCsvToSql.pdb
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeInsertCsvToSql\DenemeInsertCsvToSql\obj\Debug\DenemeInsertCsvToSql.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeInsertCsvToSql\DenemeInsertCsvToSql\obj\Debug\DenemeInsertCsvToSql.Form1.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeInsertCsvToSql\DenemeInsertCsvToSql\obj\Debug\DenemeInsertCsvToSql.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeInsertCsvToSql\DenemeInsertCsvToSql\obj\Debug\DenemeInsertCsvToSql.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeInsertCsvToSql\DenemeInsertCsvToSql\obj\Debug\DenemeInsertCsvToSql.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeInsertCsvToSql\DenemeInsertCsvToSql\obj\Debug\DenemeInsertCsvToSql.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeInsertCsvToSql\DenemeInsertCsvToSql\obj\Debug\DenemeInsertCsvToSql.pdb

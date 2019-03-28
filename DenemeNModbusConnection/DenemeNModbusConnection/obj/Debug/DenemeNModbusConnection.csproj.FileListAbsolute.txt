@@ -1,0 +1,24 @@
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\bin\Debug\DenemeNModbusConnection.exe.config
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\bin\Debug\DenemeNModbusConnection.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\bin\Debug\DenemeNModbusConnection.pdb
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\bin\Debug\NModbus4.dll
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.pdb
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\bin\Debug\DenemeNModbusConnection.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\bin\Debug\DenemeNModbusConnection.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\bin\Debug\DenemeNModbusConnection.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\bin\Debug\NModbus4.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.csproj.CopyComplete
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeNModbusConnection\DenemeNModbusConnection\obj\Debug\DenemeNModbusConnection.pdb

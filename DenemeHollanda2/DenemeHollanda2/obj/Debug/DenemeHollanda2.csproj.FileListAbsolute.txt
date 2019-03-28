@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeHollanda2\DenemeHollanda2\bin\Debug\DenemeHollanda2.exe.config
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeHollanda2\DenemeHollanda2\bin\Debug\DenemeHollanda2.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeHollanda2\DenemeHollanda2\bin\Debug\DenemeHollanda2.pdb
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeHollanda2\DenemeHollanda2\obj\Debug\DenemeHollanda2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeHollanda2\DenemeHollanda2\obj\Debug\DenemeHollanda2.Form1.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeHollanda2\DenemeHollanda2\obj\Debug\DenemeHollanda2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeHollanda2\DenemeHollanda2\obj\Debug\DenemeHollanda2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeHollanda2\DenemeHollanda2\obj\Debug\DenemeHollanda2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeHollanda2\DenemeHollanda2\obj\Debug\DenemeHollanda2.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeHollanda2\DenemeHollanda2\obj\Debug\DenemeHollanda2.pdb

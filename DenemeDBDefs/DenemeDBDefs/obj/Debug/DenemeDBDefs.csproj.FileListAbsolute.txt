@@ -1,0 +1,10 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDBDefs\DenemeDBDefs\bin\Debug\DenemeDBDefs.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDBDefs\DenemeDBDefs\bin\Debug\DenemeDBDefs.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDBDefs\DenemeDBDefs\bin\Debug\DenemeDBDefs.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDBDefs\DenemeDBDefs\obj\Debug\DenemeDBDefs.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDBDefs\DenemeDBDefs\obj\Debug\DenemeDBDefs.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDBDefs\DenemeDBDefs\obj\Debug\DenemeDBDefs.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDBDefs\DenemeDBDefs\obj\Debug\DenemeDBDefs.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDBDefs\DenemeDBDefs\obj\Debug\DenemeDBDefs.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDBDefs\DenemeDBDefs\obj\Debug\DenemeDBDefs.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDBDefs\DenemeDBDefs\obj\Debug\DenemeDBDefs.pdb

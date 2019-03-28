@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeControlExsistingFile\DenemeControlExsistingFile\bin\Debug\DenemeControlExsistingFile.exe.config
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeControlExsistingFile\DenemeControlExsistingFile\bin\Debug\DenemeControlExsistingFile.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeControlExsistingFile\DenemeControlExsistingFile\bin\Debug\DenemeControlExsistingFile.pdb
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeControlExsistingFile\DenemeControlExsistingFile\obj\Debug\DenemeControlExsistingFile.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeControlExsistingFile\DenemeControlExsistingFile\obj\Debug\DenemeControlExsistingFile.Form1.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeControlExsistingFile\DenemeControlExsistingFile\obj\Debug\DenemeControlExsistingFile.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeControlExsistingFile\DenemeControlExsistingFile\obj\Debug\DenemeControlExsistingFile.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeControlExsistingFile\DenemeControlExsistingFile\obj\Debug\DenemeControlExsistingFile.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeControlExsistingFile\DenemeControlExsistingFile\obj\Debug\DenemeControlExsistingFile.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeControlExsistingFile\DenemeControlExsistingFile\obj\Debug\DenemeControlExsistingFile.pdb

@@ -1,0 +1,10 @@
+C:\Users\BURAKKOCYIGIT\Desktop\küçük denemeler\denemeButtonColor\denemeButtonColor\bin\Debug\denemeButtonColor.exe.config
+C:\Users\BURAKKOCYIGIT\Desktop\küçük denemeler\denemeButtonColor\denemeButtonColor\bin\Debug\denemeButtonColor.exe
+C:\Users\BURAKKOCYIGIT\Desktop\küçük denemeler\denemeButtonColor\denemeButtonColor\bin\Debug\denemeButtonColor.pdb
+C:\Users\BURAKKOCYIGIT\Desktop\küçük denemeler\denemeButtonColor\denemeButtonColor\obj\Debug\denemeButtonColor.csprojAssemblyReference.cache
+C:\Users\BURAKKOCYIGIT\Desktop\küçük denemeler\denemeButtonColor\denemeButtonColor\obj\Debug\denemeButtonColor.Form1.resources
+C:\Users\BURAKKOCYIGIT\Desktop\küçük denemeler\denemeButtonColor\denemeButtonColor\obj\Debug\denemeButtonColor.Properties.Resources.resources
+C:\Users\BURAKKOCYIGIT\Desktop\küçük denemeler\denemeButtonColor\denemeButtonColor\obj\Debug\denemeButtonColor.csproj.GenerateResource.cache
+C:\Users\BURAKKOCYIGIT\Desktop\küçük denemeler\denemeButtonColor\denemeButtonColor\obj\Debug\denemeButtonColor.csproj.CoreCompileInputs.cache
+C:\Users\BURAKKOCYIGIT\Desktop\küçük denemeler\denemeButtonColor\denemeButtonColor\obj\Debug\denemeButtonColor.exe
+C:\Users\BURAKKOCYIGIT\Desktop\küçük denemeler\denemeButtonColor\denemeButtonColor\obj\Debug\denemeButtonColor.pdb

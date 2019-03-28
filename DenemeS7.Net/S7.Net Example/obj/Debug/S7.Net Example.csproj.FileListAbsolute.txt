@@ -1,0 +1,16 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\bin\Debug\S7.Net Example.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\bin\Debug\S7.Net Example.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\bin\Debug\S7.Net Example.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\bin\Debug\DenemeS7.Net.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\bin\Debug\S7.Net.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\bin\Debug\DenemeS7.Net.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\bin\Debug\DenemeS7.Net.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\bin\Debug\S7.Net.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\obj\Debug\S7.Net Example.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\obj\Debug\S7.Net_Example.FormMain.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\obj\Debug\S7.Net_Example.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\obj\Debug\S7.Net Example.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\obj\Debug\S7.Net Example.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\obj\Debug\S7.Net Example.csproj.CopyComplete
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\obj\Debug\S7.Net Example.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeS7.Net\S7.Net Example\obj\Debug\S7.Net Example.pdb

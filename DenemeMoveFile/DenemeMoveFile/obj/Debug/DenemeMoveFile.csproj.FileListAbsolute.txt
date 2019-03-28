@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeMoveFile\DenemeMoveFile\bin\Debug\DenemeMoveFile.exe.config
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeMoveFile\DenemeMoveFile\bin\Debug\DenemeMoveFile.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeMoveFile\DenemeMoveFile\bin\Debug\DenemeMoveFile.pdb
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeMoveFile\DenemeMoveFile\obj\Debug\DenemeMoveFile.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeMoveFile\DenemeMoveFile\obj\Debug\DenemeMoveFile.Form1.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeMoveFile\DenemeMoveFile\obj\Debug\DenemeMoveFile.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeMoveFile\DenemeMoveFile\obj\Debug\DenemeMoveFile.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeMoveFile\DenemeMoveFile\obj\Debug\DenemeMoveFile.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeMoveFile\DenemeMoveFile\obj\Debug\DenemeMoveFile.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeMoveFile\DenemeMoveFile\obj\Debug\DenemeMoveFile.pdb

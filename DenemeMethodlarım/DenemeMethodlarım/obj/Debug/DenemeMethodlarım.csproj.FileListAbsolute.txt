@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\burak\DenemeMethodlarım\DenemeMethodlarım\bin\Debug\DenemeMethodlarım.exe.config
+C:\Users\Lenovo\Desktop\burak\DenemeMethodlarım\DenemeMethodlarım\bin\Debug\DenemeMethodlarım.exe
+C:\Users\Lenovo\Desktop\burak\DenemeMethodlarım\DenemeMethodlarım\bin\Debug\DenemeMethodlarım.pdb
+C:\Users\Lenovo\Desktop\burak\DenemeMethodlarım\DenemeMethodlarım\obj\Debug\DenemeMethodlarım.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\burak\DenemeMethodlarım\DenemeMethodlarım\obj\Debug\DenemeMethodlarım.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\burak\DenemeMethodlarım\DenemeMethodlarım\obj\Debug\DenemeMethodlarım.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\burak\DenemeMethodlarım\DenemeMethodlarım\obj\Debug\DenemeMethodlarım.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\burak\DenemeMethodlarım\DenemeMethodlarım\obj\Debug\DenemeMethodlarım.exe
+C:\Users\Lenovo\Desktop\burak\DenemeMethodlarım\DenemeMethodlarım\obj\Debug\DenemeMethodlarım.pdb

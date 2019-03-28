@@ -1,0 +1,6 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServerConsole\DenemeTcpIpClientConsole\bin\Debug\DenemeTcpIpClientConsole.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServerConsole\DenemeTcpIpClientConsole\bin\Debug\DenemeTcpIpClientConsole.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServerConsole\DenemeTcpIpClientConsole\bin\Debug\DenemeTcpIpClientConsole.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServerConsole\DenemeTcpIpClientConsole\obj\Debug\DenemeTcpIpClientConsole.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServerConsole\DenemeTcpIpClientConsole\obj\Debug\DenemeTcpIpClientConsole.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServerConsole\DenemeTcpIpClientConsole\obj\Debug\DenemeTcpIpClientConsole.pdb

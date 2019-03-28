@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenemeTcpIpClientAndServerConsole", "DenemeTcpIpClientAndServerConsole\DenemeTcpIpClientAndServerConsole.csproj", "{DDD4672B-3916-42C3-9E9F-F1E66582BE22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenemeTcpIpClientConsole", "DenemeTcpIpClientConsole\DenemeTcpIpClientConsole.csproj", "{1CA418BE-BBCC-412D-A232-F5D61D355761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD4672B-3916-42C3-9E9F-F1E66582BE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD4672B-3916-42C3-9E9F-F1E66582BE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD4672B-3916-42C3-9E9F-F1E66582BE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD4672B-3916-42C3-9E9F-F1E66582BE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA418BE-BBCC-412D-A232-F5D61D355761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA418BE-BBCC-412D-A232-F5D61D355761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA418BE-BBCC-412D-A232-F5D61D355761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA418BE-BBCC-412D-A232-F5D61D355761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D689827-51BB-4FFA-8D15-9EF629018F23}
+	EndGlobalSection
+EndGlobal

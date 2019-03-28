@@ -1,0 +1,7 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEvents\DenemeEvents\bin\Debug\DenemeEvents.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEvents\DenemeEvents\bin\Debug\DenemeEvents.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEvents\DenemeEvents\bin\Debug\DenemeEvents.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEvents\DenemeEvents\obj\Debug\DenemeEvents.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEvents\DenemeEvents\obj\Debug\DenemeEvents.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEvents\DenemeEvents\obj\Debug\DenemeEvents.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEvents\DenemeEvents\obj\Debug\DenemeEvents.pdb

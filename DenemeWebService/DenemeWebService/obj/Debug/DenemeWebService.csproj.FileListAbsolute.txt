@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeWebService\DenemeWebService\bin\DenemeWebService.dll.config
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeWebService\DenemeWebService\bin\DenemeWebService.dll
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeWebService\DenemeWebService\bin\DenemeWebService.pdb
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeWebService\DenemeWebService\obj\Debug\DenemeWebService.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeWebService\DenemeWebService\obj\Debug\DenemeWebService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeWebService\DenemeWebService\obj\Debug\DenemeWebService.dll
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeWebService\DenemeWebService\obj\Debug\DenemeWebService.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWebService\DenemeWebService\bin\DenemeWebService.dll.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWebService\DenemeWebService\bin\DenemeWebService.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWebService\DenemeWebService\bin\DenemeWebService.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWebService\DenemeWebService\obj\Debug\DenemeWebService.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWebService\DenemeWebService\obj\Debug\DenemeWebService.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWebService\DenemeWebService\obj\Debug\DenemeWebService.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWebService\DenemeWebService\obj\Debug\DenemeWebService.pdb

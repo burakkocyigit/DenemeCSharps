@@ -1,0 +1,10 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlOnAnotherComputer\DenemeSqlOnAnotherComputer\bin\Debug\DenemeSqlOnAnotherComputer.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlOnAnotherComputer\DenemeSqlOnAnotherComputer\bin\Debug\DenemeSqlOnAnotherComputer.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlOnAnotherComputer\DenemeSqlOnAnotherComputer\bin\Debug\DenemeSqlOnAnotherComputer.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlOnAnotherComputer\DenemeSqlOnAnotherComputer\obj\Debug\DenemeSqlOnAnotherComputer.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlOnAnotherComputer\DenemeSqlOnAnotherComputer\obj\Debug\DenemeSqlOnAnotherComputer.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlOnAnotherComputer\DenemeSqlOnAnotherComputer\obj\Debug\DenemeSqlOnAnotherComputer.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlOnAnotherComputer\DenemeSqlOnAnotherComputer\obj\Debug\DenemeSqlOnAnotherComputer.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlOnAnotherComputer\DenemeSqlOnAnotherComputer\obj\Debug\DenemeSqlOnAnotherComputer.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlOnAnotherComputer\DenemeSqlOnAnotherComputer\obj\Debug\DenemeSqlOnAnotherComputer.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlOnAnotherComputer\DenemeSqlOnAnotherComputer\obj\Debug\DenemeSqlOnAnotherComputer.pdb

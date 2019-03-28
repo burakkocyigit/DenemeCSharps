@@ -1,0 +1,12 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\bin\Debug\DenemeDelegateAndEvent.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\bin\Debug\DenemeDelegateAndEvent.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\bin\Debug\DenemeDelegateAndEvent.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\obj\Debug\DenemeDelegateAndEvent.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\obj\Debug\DenemeDelegateAndEvent.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\obj\Debug\DenemeDelegateAndEvent.Form2.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\obj\Debug\DenemeDelegateAndEvent.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\obj\Debug\DenemeDelegateAndEvent.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\obj\Debug\DenemeDelegateAndEvent.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\obj\Debug\DenemeDelegateAndEvent.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\obj\Debug\DenemeDelegateAndEvent.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeDelegateAndEvent\DenemeDelegateAndEvent\obj\Debug\DenemeDelegateAndEvent.Form3.resources

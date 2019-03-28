@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeFileSystemWhacher\DenemeFileSystemWhacher\bin\Debug\DenemeFileSystemWhacher.exe.config
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeFileSystemWhacher\DenemeFileSystemWhacher\bin\Debug\DenemeFileSystemWhacher.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeFileSystemWhacher\DenemeFileSystemWhacher\bin\Debug\DenemeFileSystemWhacher.pdb
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeFileSystemWhacher\DenemeFileSystemWhacher\obj\Debug\DenemeFileSystemWhacher.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeFileSystemWhacher\DenemeFileSystemWhacher\obj\Debug\DenemeFileSystemWhacher.Form1.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeFileSystemWhacher\DenemeFileSystemWhacher\obj\Debug\DenemeFileSystemWhacher.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeFileSystemWhacher\DenemeFileSystemWhacher\obj\Debug\DenemeFileSystemWhacher.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeFileSystemWhacher\DenemeFileSystemWhacher\obj\Debug\DenemeFileSystemWhacher.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeFileSystemWhacher\DenemeFileSystemWhacher\obj\Debug\DenemeFileSystemWhacher.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeFileSystemWhacher\DenemeFileSystemWhacher\obj\Debug\DenemeFileSystemWhacher.pdb

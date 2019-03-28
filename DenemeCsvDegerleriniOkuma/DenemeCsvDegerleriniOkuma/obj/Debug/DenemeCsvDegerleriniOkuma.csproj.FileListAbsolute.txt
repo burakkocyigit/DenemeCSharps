@@ -1,0 +1,20 @@
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\bin\Debug\DenemeCsvDegerleriniOkuma.exe.config
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\bin\Debug\DenemeCsvDegerleriniOkuma.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\bin\Debug\DenemeCsvDegerleriniOkuma.pdb
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.Form1.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\bin\Debug\DenemeCsvDegerleriniOkuma.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\bin\Debug\DenemeCsvDegerleriniOkuma.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\bin\Debug\DenemeCsvDegerleriniOkuma.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeCsvDegerleriniOkuma\DenemeCsvDegerleriniOkuma\obj\Debug\DenemeCsvDegerleriniOkuma.pdb

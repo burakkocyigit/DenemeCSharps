@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\DenemeTartıKonveyörü\DenemeTartıKonveyörü\bin\Debug\DenemeTartıKonveyörü.exe.config
+C:\Users\burak\source\repos\DenemeTartıKonveyörü\DenemeTartıKonveyörü\bin\Debug\DenemeTartıKonveyörü.exe
+C:\Users\burak\source\repos\DenemeTartıKonveyörü\DenemeTartıKonveyörü\bin\Debug\DenemeTartıKonveyörü.pdb
+C:\Users\burak\source\repos\DenemeTartıKonveyörü\DenemeTartıKonveyörü\obj\Debug\DenemeTartıKonveyörü.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\DenemeTartıKonveyörü\DenemeTartıKonveyörü\obj\Debug\DenemeTartıKonveyörü.Form1.resources
+C:\Users\burak\source\repos\DenemeTartıKonveyörü\DenemeTartıKonveyörü\obj\Debug\DenemeTartıKonveyörü.Properties.Resources.resources
+C:\Users\burak\source\repos\DenemeTartıKonveyörü\DenemeTartıKonveyörü\obj\Debug\DenemeTartıKonveyörü.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\DenemeTartıKonveyörü\DenemeTartıKonveyörü\obj\Debug\DenemeTartıKonveyörü.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\DenemeTartıKonveyörü\DenemeTartıKonveyörü\obj\Debug\DenemeTartıKonveyörü.exe
+C:\Users\burak\source\repos\DenemeTartıKonveyörü\DenemeTartıKonveyörü\obj\Debug\DenemeTartıKonveyörü.pdb

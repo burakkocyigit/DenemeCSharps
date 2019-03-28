@@ -1,0 +1,12 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\bin\Debug\DenemeTcpIpClientAndServer.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\bin\Debug\DenemeTcpIpClientAndServer.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\bin\Debug\DenemeTcpIpClientAndServer.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\obj\Debug\DenemeTcpIpClientAndServer.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\obj\Debug\DenemeTcpIpClientAndServer.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\obj\Debug\DenemeTcpIpClientAndServer.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\obj\Debug\DenemeTcpIpClientAndServer.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\obj\Debug\DenemeTcpIpClientAndServer.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\obj\Debug\DenemeTcpIpClientAndServer.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\bin\Debug\SimpleTCP.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\obj\Debug\DenemeTcpIpClientAndServer.csproj.CopyComplete
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClientAndServer\obj\Debug\DenemeTcpIpClientAndServer.csprojAssemblyReference.cache

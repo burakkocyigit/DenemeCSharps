@@ -1,0 +1,12 @@
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\obj\Debug\denemeOmerModbus.csprojAssemblyReference.cache
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\obj\Debug\denemeOmerModbus.Form1.resources
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\obj\Debug\denemeOmerModbus.Properties.Resources.resources
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\obj\Debug\denemeOmerModbus.csproj.GenerateResource.cache
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\obj\Debug\denemeOmerModbus.csproj.CoreCompileInputs.cache
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\bin\Debug\denemeOmerModbus.exe.config
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\bin\Debug\denemeOmerModbus.exe
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\bin\Debug\denemeOmerModbus.pdb
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\bin\Debug\EasyModbus.dll
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\obj\Debug\denemeOmerModbus.csproj.CopyComplete
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\obj\Debug\denemeOmerModbus.exe
+C:\Users\BURAKKOCYIGIT\Desktop\denemeOmerModbus\denemeOmerModbus\obj\Debug\denemeOmerModbus.pdb

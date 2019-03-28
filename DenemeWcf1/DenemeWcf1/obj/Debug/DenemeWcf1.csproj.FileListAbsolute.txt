@@ -1,0 +1,7 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWcf1\DenemeWcf1\bin\DenemeWcf1.dll.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWcf1\DenemeWcf1\bin\DenemeWcf1.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWcf1\DenemeWcf1\bin\DenemeWcf1.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWcf1\DenemeWcf1\obj\Debug\DenemeWcf1.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWcf1\DenemeWcf1\obj\Debug\DenemeWcf1.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWcf1\DenemeWcf1\obj\Debug\DenemeWcf1.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeWcf1\DenemeWcf1\obj\Debug\DenemeWcf1.pdb

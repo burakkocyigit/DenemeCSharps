@@ -1,0 +1,20 @@
+C:\Users\burak\source\repos\DenemeEtiketMakinesi\DenemeEtiketMakinesi\bin\Debug\DenemeEtiketMakinesi.exe.config
+C:\Users\burak\source\repos\DenemeEtiketMakinesi\DenemeEtiketMakinesi\bin\Debug\DenemeEtiketMakinesi.exe
+C:\Users\burak\source\repos\DenemeEtiketMakinesi\DenemeEtiketMakinesi\bin\Debug\DenemeEtiketMakinesi.pdb
+C:\Users\burak\source\repos\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.Form1.resources
+C:\Users\burak\source\repos\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.Properties.Resources.resources
+C:\Users\burak\source\repos\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.exe
+C:\Users\burak\source\repos\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEtiketMakinesi\DenemeEtiketMakinesi\bin\Debug\DenemeEtiketMakinesi.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEtiketMakinesi\DenemeEtiketMakinesi\bin\Debug\DenemeEtiketMakinesi.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEtiketMakinesi\DenemeEtiketMakinesi\bin\Debug\DenemeEtiketMakinesi.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeEtiketMakinesi\DenemeEtiketMakinesi\obj\Debug\DenemeEtiketMakinesi.pdb

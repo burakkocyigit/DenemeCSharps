@@ -1,0 +1,20 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSunumMemet\DenemeSunumMemet\bin\Debug\DenemeSunumMemet.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSunumMemet\DenemeSunumMemet\bin\Debug\DenemeSunumMemet.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSunumMemet\DenemeSunumMemet\bin\Debug\DenemeSunumMemet.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.pdb
+D:\visual studio\DenemeSunumMemet\DenemeSunumMemet\bin\Debug\DenemeSunumMemet.exe.config
+D:\visual studio\DenemeSunumMemet\DenemeSunumMemet\bin\Debug\DenemeSunumMemet.exe
+D:\visual studio\DenemeSunumMemet\DenemeSunumMemet\bin\Debug\DenemeSunumMemet.pdb
+D:\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.csprojAssemblyReference.cache
+D:\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.Form1.resources
+D:\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.Properties.Resources.resources
+D:\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.csproj.GenerateResource.cache
+D:\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.csproj.CoreCompileInputs.cache
+D:\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.exe
+D:\visual studio\DenemeSunumMemet\DenemeSunumMemet\obj\Debug\DenemeSunumMemet.pdb

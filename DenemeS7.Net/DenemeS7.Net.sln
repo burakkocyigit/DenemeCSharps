@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenemeS7.Net", "DenemeS7.Net\DenemeS7.Net.csproj", "{06502C1D-4F16-4A40-B626-91B22F4EBD2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S7.Net Example", "S7.Net Example\S7.Net Example.csproj", "{E3B0F492-99EA-4FCE-B144-06362FB72FF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06502C1D-4F16-4A40-B626-91B22F4EBD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06502C1D-4F16-4A40-B626-91B22F4EBD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06502C1D-4F16-4A40-B626-91B22F4EBD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06502C1D-4F16-4A40-B626-91B22F4EBD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B0F492-99EA-4FCE-B144-06362FB72FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B0F492-99EA-4FCE-B144-06362FB72FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B0F492-99EA-4FCE-B144-06362FB72FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B0F492-99EA-4FCE-B144-06362FB72FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34934BC9-AA2C-43F5-B30D-DDA011F7B3D1}
+	EndGlobalSection
+EndGlobal

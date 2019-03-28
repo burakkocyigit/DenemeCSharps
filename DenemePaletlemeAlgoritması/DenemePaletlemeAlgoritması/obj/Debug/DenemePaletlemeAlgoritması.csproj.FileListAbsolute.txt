@@ -1,0 +1,11 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemePaletlemeAlgoritması\DenemePaletlemeAlgoritması\bin\Debug\DenemePaletlemeAlgoritması.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemePaletlemeAlgoritması\DenemePaletlemeAlgoritması\bin\Debug\DenemePaletlemeAlgoritması.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemePaletlemeAlgoritması\DenemePaletlemeAlgoritması\bin\Debug\DenemePaletlemeAlgoritması.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemePaletlemeAlgoritması\DenemePaletlemeAlgoritması\bin\Debug\NModbus4.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemePaletlemeAlgoritması\DenemePaletlemeAlgoritması\obj\Debug\DenemePaletlemeAlgoritması.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemePaletlemeAlgoritması\DenemePaletlemeAlgoritması\obj\Debug\DenemePaletlemeAlgoritması.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemePaletlemeAlgoritması\DenemePaletlemeAlgoritması\obj\Debug\DenemePaletlemeAlgoritması.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemePaletlemeAlgoritması\DenemePaletlemeAlgoritması\obj\Debug\DenemePaletlemeAlgoritması.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemePaletlemeAlgoritması\DenemePaletlemeAlgoritması\obj\Debug\DenemePaletlemeAlgoritması.csproj.CopyComplete
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemePaletlemeAlgoritması\DenemePaletlemeAlgoritması\obj\Debug\DenemePaletlemeAlgoritması.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemePaletlemeAlgoritması\DenemePaletlemeAlgoritması\obj\Debug\DenemePaletlemeAlgoritması.pdb

@@ -1,0 +1,24 @@
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\bin\Debug\DenemeSqlListener.exe.config
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\bin\Debug\DenemeSqlListener.exe
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\bin\Debug\DenemeSqlListener.pdb
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\bin\Debug\System.Data.Common.dll
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\bin\Debug\System.Data.SqlClient.dll
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\obj\Debug\DenemeSqlListener.csprojAssemblyReference.cache
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\obj\Debug\DenemeSqlListener.csproj.CoreCompileInputs.cache
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\obj\Debug\DenemeSqlListener.csproj.CopyComplete
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\obj\Debug\DenemeSqlListener.exe
+C:\Users\serdar\Desktop\burak\DenemeSqlListener\DenemeSqlListener\obj\Debug\DenemeSqlListener.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\bin\Debug\DenemeSqlListener.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\bin\Debug\DenemeSqlListener.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\bin\Debug\DenemeSqlListener.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\bin\Debug\System.Data.Common.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\bin\Debug\System.Data.SqlClient.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\obj\Debug\DenemeSqlListener.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\obj\Debug\DenemeSqlListener.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\obj\Debug\DenemeSqlListener.csproj.CopyComplete
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\obj\Debug\DenemeSqlListener.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlListener\DenemeSqlListener\obj\Debug\DenemeSqlListener.pdb

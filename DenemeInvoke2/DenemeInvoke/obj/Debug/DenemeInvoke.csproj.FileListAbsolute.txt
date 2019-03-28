@@ -1,0 +1,10 @@
+C:\Users\BURAKKOCYIGIT\Desktop\DenemeInvoke\DenemeInvoke\obj\Debug\DenemeInvoke.csprojAssemblyReference.cache
+C:\Users\BURAKKOCYIGIT\Desktop\DenemeInvoke\DenemeInvoke\obj\Debug\DenemeInvoke.Form1.resources
+C:\Users\BURAKKOCYIGIT\Desktop\DenemeInvoke\DenemeInvoke\obj\Debug\DenemeInvoke.Properties.Resources.resources
+C:\Users\BURAKKOCYIGIT\Desktop\DenemeInvoke\DenemeInvoke\obj\Debug\DenemeInvoke.csproj.GenerateResource.cache
+C:\Users\BURAKKOCYIGIT\Desktop\DenemeInvoke\DenemeInvoke\obj\Debug\DenemeInvoke.csproj.CoreCompileInputs.cache
+C:\Users\BURAKKOCYIGIT\Desktop\DenemeInvoke\DenemeInvoke\bin\Debug\DenemeInvoke.exe.config
+C:\Users\BURAKKOCYIGIT\Desktop\DenemeInvoke\DenemeInvoke\bin\Debug\DenemeInvoke.exe
+C:\Users\BURAKKOCYIGIT\Desktop\DenemeInvoke\DenemeInvoke\bin\Debug\DenemeInvoke.pdb
+C:\Users\BURAKKOCYIGIT\Desktop\DenemeInvoke\DenemeInvoke\obj\Debug\DenemeInvoke.exe
+C:\Users\BURAKKOCYIGIT\Desktop\DenemeInvoke\DenemeInvoke\obj\Debug\DenemeInvoke.pdb

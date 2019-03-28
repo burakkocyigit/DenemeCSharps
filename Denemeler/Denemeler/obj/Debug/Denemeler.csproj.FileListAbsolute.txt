@@ -1,0 +1,7 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\Denemeler\Denemeler\bin\Debug\Denemeler.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\Denemeler\Denemeler\bin\Debug\Denemeler.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\Denemeler\Denemeler\bin\Debug\Denemeler.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\Denemeler\Denemeler\obj\Debug\Denemeler.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\Denemeler\Denemeler\obj\Debug\Denemeler.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\Denemeler\Denemeler\obj\Debug\Denemeler.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\Denemeler\Denemeler\obj\Debug\Denemeler.pdb

@@ -1,0 +1,20 @@
+C:\Users\burak\source\repos\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\bin\Debug\DenemeMobileBarcodeReader.exe.config
+C:\Users\burak\source\repos\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\bin\Debug\DenemeMobileBarcodeReader.exe
+C:\Users\burak\source\repos\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\bin\Debug\DenemeMobileBarcodeReader.pdb
+C:\Users\burak\source\repos\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.Form1.resources
+C:\Users\burak\source\repos\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.Properties.Resources.resources
+C:\Users\burak\source\repos\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.exe
+C:\Users\burak\source\repos\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\bin\Debug\DenemeMobileBarcodeReader.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\bin\Debug\DenemeMobileBarcodeReader.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\bin\Debug\DenemeMobileBarcodeReader.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeMobileBarcodeReader\DenemeMobileBarcodeReader\obj\Debug\DenemeMobileBarcodeReader.pdb

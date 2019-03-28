@@ -1,0 +1,20 @@
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\bin\Debug\DenemeSqlConnection.exe.config
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\bin\Debug\DenemeSqlConnection.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\bin\Debug\DenemeSqlConnection.pdb
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.Form1.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.exe
+C:\Users\Lenovo\Desktop\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\bin\Debug\DenemeSqlConnection.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\bin\Debug\DenemeSqlConnection.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\bin\Debug\DenemeSqlConnection.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeSqlConnection\DenemeSqlConnection\obj\Debug\DenemeSqlConnection.pdb

@@ -1,0 +1,12 @@
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\bin\Debug\DenemeTcpIpClient.exe.config
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\bin\Debug\DenemeTcpIpClient.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\bin\Debug\DenemeTcpIpClient.pdb
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\bin\Debug\SimpleTCP.dll
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\obj\Debug\DenemeTcpIpClient.csprojAssemblyReference.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\obj\Debug\DenemeTcpIpClient.Form1.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\obj\Debug\DenemeTcpIpClient.Properties.Resources.resources
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\obj\Debug\DenemeTcpIpClient.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\obj\Debug\DenemeTcpIpClient.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\obj\Debug\DenemeTcpIpClient.csproj.CopyComplete
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\obj\Debug\DenemeTcpIpClient.exe
+C:\Users\burak\Desktop\yeni bilgisayar için burak\burak\visual studio\DenemeTcpIpClientAndServer\DenemeTcpIpClient\obj\Debug\DenemeTcpIpClient.pdb
